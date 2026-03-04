@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "逃亡",
+  "base_artist": "ヨルシカ",
+  "createdAt": "2026-03-04T10:21:15.106045Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "逃亡",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/01_逃亡_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "逃亡",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/02_逃亡_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "逃亡 - Escape",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/03_逃亡_-_Escape_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "逃亡 - Abscondence",
+      "artist": "Sun Yanzi",
+      "has_synced": false,
+      "path": "select/04_逃亡_-_Abscondence_Sun_Yanzi.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "逃亡",
+      "artist": "Jess Lee",
+      "has_synced": true,
+      "path": "select/05_逃亡_Jess_Lee.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "逃亡",
+      "artist": "Stefanie Sun",
+      "has_synced": true,
+      "path": "select/06_逃亡_Stefanie_Sun.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "逃亡 - Remastered",
+      "artist": "Stefanie Sun",
+      "has_synced": true,
+      "path": "select/07_逃亡_-_Remastered_Stefanie_Sun.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "逃亡",
+      "artist": "張學友",
+      "has_synced": true,
+      "path": "select/08_逃亡_張學友.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "逃亡",
+      "artist": "Sun, Stefanie",
+      "has_synced": true,
+      "path": "select/09_逃亡_Sun,_Stefanie.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "逃亡",
+      "artist": "Sun, Stefanie",
+      "has_synced": true,
+      "path": "select/10_逃亡_Sun,_Stefanie.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "逃亡",
+      "artist": "Stefanie Sun (孫燕姿)",
+      "has_synced": true,
+      "path": "select/11_逃亡_Stefanie_Sun_(孫燕姿).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "逃亡",
+      "artist": "张学友",
+      "has_synced": true,
+      "path": "select/12_逃亡_张学友.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "逃亡",
+      "artist": "張學友",
+      "has_synced": false,
+      "path": "select/13_逃亡_張學友.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "逃亡",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/pl_01_逃亡_ヨルシカ.txt"
+    }
+  ]
+}
