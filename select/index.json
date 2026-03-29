@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "逃亡",
   "base_artist": "ヨルシカ",
-  "createdAt": "2026-03-04T10:21:15.106045Z",
+  "createdAt": "2026-03-29T23:41:41.165271Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -17,8 +17,8 @@
       "source": "lrclib",
       "title": "逃亡",
       "artist": "ヨルシカ",
-      "has_synced": true,
-      "path": "select/02_逃亡_ヨルシカ.lrc"
+      "has_synced": false,
+      "path": "select/02_逃亡_ヨルシカ.txt"
     },
     {
       "id": "lrclib_3",
@@ -115,6 +115,15 @@
       "artist": "ヨルシカ",
       "has_synced": false,
       "path": "select/pl_01_逃亡_ヨルシカ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "逃亡",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/localdb_01_逃亡_ヨルシカ.lrc",
+      "repo_name": "Z6TOQxjKmiw"
     }
   ]
 }
